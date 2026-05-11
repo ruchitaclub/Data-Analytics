@@ -195,7 +195,7 @@ This project is suitable for:
 
 # 👩‍💻 Author
 
-**Komal Dhamange**
+**Ruchita Dhakate**
 
 ---
 
